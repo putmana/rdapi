@@ -1,5 +1,5 @@
 from flask import jsonify
-def json_test(self):
+def json_test():
     return jsonify(test_dict)
 
 
