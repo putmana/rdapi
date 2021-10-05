@@ -1,2 +1,2 @@
 # rdapi
-API for the raindrop project
+API for the Raindrop project
